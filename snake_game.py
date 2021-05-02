@@ -68,3 +68,4 @@ print ('Score: '+str(score))
 curses.endwin()
 
 #aa
+#bbc
