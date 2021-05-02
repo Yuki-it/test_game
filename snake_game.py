@@ -66,3 +66,5 @@ while True:
 
 print ('Score: '+str(score))
 curses.endwin()
+
+#aa
